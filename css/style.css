@@ -10,7 +10,7 @@ h1 {
 }
 
 .column {
-    width: 18%;
+    width: 15%;
     padding: 25px 0px;
 }
 
@@ -46,6 +46,7 @@ h1 {
     display: block;
     font-size: 18px;
     height: 200px;
+    width: 25%;
     font-weight: bold;
     margin: 20px;
 }
@@ -64,4 +65,10 @@ input {
 button {
     font-size: 14px;
     padding: 5px 10px;
+}
+
+#cancel {
+    font-size: 18px;
+    height: 200px;
+    margin: 20px;
 }
